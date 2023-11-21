@@ -1,0 +1,20 @@
+{
+    "en" : {
+ "welcomeMessege" : "Welcome !" ,
+ "normalMessege" : " We hope you enjoy learing React.",
+ "greetingMessege" : "Have a Good Day",
+ "usersStateMessege" : "<studentCount> Students users are learning in this session."
+},
+    "mr" : {
+        "welcomeMessege" : "स्वागत आहे !"  ,
+        "normalMessege"  : "आशा आहे की तुम्हाला react शिकण्यात मज्जा येईल. " ,
+        "greetingMessege" : "तुमचा दिवस चांगला जावो.",
+        "usersStateMessege" : "ह्या सत्र मध्ये <studentCount> विद्यार्थी शिकत आहे. "
+    },           
+    "hi" : {
+        "welcomeMessege" :"स्वागत है !",
+        "normalMessege"  : "हम आशा करते हैं कि आप react सिखने का आनंद लेंगे! " ,
+        "greetingMessege" : "आपका दिन शुभ हो !",
+        "usersStateMessege" :"इस सत्र में <studentCount> विद्यार्थी अध्ययनरत हैं!"
+    }
+}
